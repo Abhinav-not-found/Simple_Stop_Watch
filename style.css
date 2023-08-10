@@ -7,7 +7,7 @@
 }
 .outer{
     height: 100vh;
-   background-color: #bdbff8;
+   background-color: #d5d7fd;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -44,7 +44,7 @@
     background-color: #d5d7fd;
     border: 10px solid #8B5DF1;
     z-index: 2;
-    outline: 6px solid #bdbff8;
+    outline: 6px solid #d5d7fd;
     border-radius: 1000px;
 }
 .middle{
