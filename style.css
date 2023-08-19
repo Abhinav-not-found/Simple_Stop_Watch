@@ -106,3 +106,21 @@
     left: 41%;
     transform: rotate(-35deg);
 }
+@media (max-width:600px) {
+    .left{
+        top: 30%;
+        left: 18%;
+    }
+    .left-top{
+        top: 29%;
+        left: 11%;
+    }
+    .right{
+        top: 30%;
+        left: 70%;
+    }
+    .right-top{
+        top: 28.5%;
+        left: 69%;
+    }
+}
